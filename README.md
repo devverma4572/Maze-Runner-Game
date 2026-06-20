@@ -5,6 +5,14 @@ A 3D maze adventure game developed using **Unity 3D** and **C#**, where players 
 ## 🎮 Overview
 
 The game focuses on player navigation, exploration, and decision-making within a maze environment. Players must carefully maneuver through the maze while collecting coins and avoiding obstacles that result in a game over.
+<div style="
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+         ">
+   <img src="Screenshots/mazerunner-3.png" width="700">
+</div>
 
 ## ✨ Features
 
@@ -68,6 +76,11 @@ Assets/
 4. Click Play in the Unity Editor.
 
 ## 📸 Screenshots
+<img src="Screenshots/mazerunner-1.png" width="700">
+<img src="Screenshots/mazerunner-2.png" width="700">
+<img src="Screenshots/mazerunner-3.png" width="700">
+<img src="Screenshots/mazerunner-4.png" width="700">
+
 
 ## 🎓 Learning Outcomes
 
